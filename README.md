@@ -21,6 +21,7 @@ recommended to the users.
 ## Result:
 
 Algorithm acheived mean squared error of 1.24154447389
+
 Optimising mean squared error:
 Mean Squared error for n_clusters = 2 is 1.08155166095
 
